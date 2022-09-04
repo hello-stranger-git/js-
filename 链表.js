@@ -94,6 +94,7 @@ class LinkedList {
     size() {
         return this.count
     }
+    //获取链表
     getHead() {
         return this.head
     }
